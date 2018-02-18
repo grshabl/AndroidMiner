@@ -1,0 +1,3 @@
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/CryptoNight.dir

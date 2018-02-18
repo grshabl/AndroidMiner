@@ -1,0 +1,3 @@
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/CryptoNight.dir

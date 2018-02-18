@@ -1,0 +1,23 @@
+# ninja log v5
+9	91	0	CMakeFiles/CryptoNight.dir/crypto/hash.c.o	9c4e0315317edca9
+0	95	0	CMakeFiles/CryptoNight.dir/cryptonight.c.o	80f6919b7595fe5a
+6	115	0	CMakeFiles/CryptoNight.dir/crypto/c_keccak.c.o	897e29f410bd0480
+2	117	0	CMakeFiles/CryptoNight.dir/cryptonight_jni.c.o	f2ad67cd3256e37b
+3	123	0	CMakeFiles/CryptoNight.dir/crypto/c_blake256.c.o	4bae5f7ef01aa07e
+4	139	0	CMakeFiles/CryptoNight.dir/crypto/c_groestl.c.o	a2a77c31b6aae06f
+11	148	0	CMakeFiles/CryptoNight.dir/crypto/oaes_lib.c.o	bf2bbfe9f65af924
+2	157	0	CMakeFiles/CryptoNight.dir/crypto/aesb.c.o	66a493da340ef11f
+5	305	0	CMakeFiles/CryptoNight.dir/crypto/c_jh.c.o	b665d1397c079f6e
+8	570	0	CMakeFiles/CryptoNight.dir/crypto/c_skein.c.o	7d96e224112660d4
+570	598	0	/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/build/intermediates/cmake/debug/obj/x86/libCryptoNight.so	b44ccd9da4650433
+1	117	0	CMakeFiles/CryptoNight.dir/cryptonight.c.o	80f6919b7595fe5a
+13	134	0	CMakeFiles/CryptoNight.dir/crypto/hash.c.o	9c4e0315317edca9
+10	147	0	CMakeFiles/CryptoNight.dir/crypto/c_keccak.c.o	897e29f410bd0480
+3	152	0	CMakeFiles/CryptoNight.dir/cryptonight_jni.c.o	f2ad67cd3256e37b
+6	157	0	CMakeFiles/CryptoNight.dir/crypto/c_blake256.c.o	4bae5f7ef01aa07e
+7	165	0	CMakeFiles/CryptoNight.dir/crypto/c_groestl.c.o	a2a77c31b6aae06f
+15	176	0	CMakeFiles/CryptoNight.dir/crypto/oaes_lib.c.o	bf2bbfe9f65af924
+4	192	0	CMakeFiles/CryptoNight.dir/crypto/aesb.c.o	66a493da340ef11f
+9	407	0	CMakeFiles/CryptoNight.dir/crypto/c_jh.c.o	b665d1397c079f6e
+12	752	0	CMakeFiles/CryptoNight.dir/crypto/c_skein.c.o	7d96e224112660d4
+752	806	0	/Users/gshabalov/Downloads/CryptoNightMiner-master/xmrminer/build/intermediates/cmake/debug/obj/x86/libCryptoNight.so	b44ccd9da4650433
